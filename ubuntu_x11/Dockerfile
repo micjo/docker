@@ -6,6 +6,4 @@ RUN \
       rm -rf /var/lib/apt/lists/*
 
       WORKDIR /data
-      RUN chmod +x qt/
-
-      CMD ["/bin/bash"]
+#      RUN chmod +x qt/

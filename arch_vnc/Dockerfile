@@ -19,7 +19,3 @@ RUN pacman -S lxde-common openbox lxsession --noconfirm
 
 #Firefox for testing stuff
 RUN pacman -S firefox --noconfirm
-
-
-CMD ["/bin/bash"]
-
