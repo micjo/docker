@@ -3,7 +3,7 @@ Some docker files for various purposes:
 
 | Folder | Description |
 | --| --|
-| arch_vnc | Archlinux with vnc connectiong |
+| arch_vnc | Arch with VNC connection |
 | ubuntu_x11 | Ubuntu with X11 connection with Xephyr |
 
 
