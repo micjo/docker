@@ -16,7 +16,7 @@ Set the display variable
 export DISPLAY=:1
 ```
 
-Configure Xvfb to display to this display
+Launch Xvfb
 ```
 Xvfb :1 -screen 0 1024x768x16 &
 ```
